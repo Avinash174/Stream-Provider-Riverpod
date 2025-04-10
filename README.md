@@ -1,4 +1,4 @@
-# stream_provider_riverpod
+# Stream Provider Riverpod
 
 A new Flutter project.
 
